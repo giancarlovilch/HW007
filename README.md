@@ -1,4 +1,4 @@
-# 📘 Práctica de Git – Gestión de Repositorios, Commits, Ramas y Conflictos
+# Práctica de Git – Gestión de Repositorios, Commits, Ramas y Conflictos
 
 Este proyecto contiene el desarrollo completo de las actividades solicitadas en la práctica de Git, que incluye la creación de un repositorio, manejo de commits, trabajo con ramas, merges y resolución de conflictos.
 
@@ -121,3 +121,5 @@ git push origin main
 ```
 
 ------
+
+![image-20251130122015536](./.Images/image-20251130122015536.png)
